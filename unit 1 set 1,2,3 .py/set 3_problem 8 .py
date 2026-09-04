@@ -1,0 +1,4 @@
+
+# SALARY = 58,750
+# HRA = 22
+# BASIC_SALARY = 
